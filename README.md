@@ -1,1 +1,1 @@
-# Kidney-Disease-Classification-MLflow-DVC
+# Chiken-Disease-Classification-Azure-DVC
